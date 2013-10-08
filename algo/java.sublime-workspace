@@ -1,0 +1,1125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"theta"
+			],
+			[
+				"Li",
+				"List"
+			],
+			[
+				"it",
+				"Iterator"
+			],
+			[
+				"P",
+				"piople"
+			],
+			[
+				"re",
+				"removePeople"
+			],
+			[
+				"r",
+				"removePeople"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"f",
+				"fill"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"a",
+				"addWord"
+			],
+			[
+				"li",
+				"lineS"
+			],
+			[
+				"fo",
+				"for	for"
+			],
+			[
+				"line",
+				"lineToParse"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"t",
+				"takeAnimals"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"O",
+				"Override"
+			],
+			[
+				"song",
+				"songSet"
+			],
+			[
+				"so",
+				"songList"
+			],
+			[
+				"Ar",
+				"ArtistCompare"
+			],
+			[
+				"b",
+				"bpm"
+			],
+			[
+				"R",
+				"raiting"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"tree",
+				"treeMaxTest"
+			],
+			[
+				"get",
+				"getLeftChild"
+			],
+			[
+				"ge",
+				"getY"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"set",
+				"setLeftChild"
+			],
+			[
+				"old",
+				"oldRight"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"merg",
+				"mergeAndSplitTest"
+			],
+			[
+				"tr",
+				"treeTest"
+			],
+			[
+				"Tree",
+				"treeMinTest"
+			],
+			[
+				"asse",
+				"assertEquals"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"test",
+				"Tester"
+			],
+			[
+				"ass",
+				"assertFalse"
+			],
+			[
+				"g",
+				"getLeftChild"
+			],
+			[
+				"m",
+				"mostLeft"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"de",
+				"derevo"
+			],
+			[
+				"d",
+				"derevo"
+			],
+			[
+				"C",
+				"CartezianTree"
+			],
+			[
+				"mer",
+				"mergeAndSplitTest"
+			],
+			[
+				"co",
+				"contains"
+			],
+			[
+				"getL",
+				"getLeftChild"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"s",
+				"setY"
+			],
+			[
+				"se",
+				"setY"
+			],
+			[
+				"ol",
+				"oldLeft"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"new",
+				"newTrees"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"print",
+				"printLinkedList"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"pri",
+				"printNode"
+			],
+			[
+				"prin",
+				"printNode"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"Q",
+				"QueueException"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"as",
+				"assertEquals"
+			],
+			[
+				"pl",
+				"pl	println"
+			],
+			[
+				"wi",
+				"wiki"
+			],
+			[
+				"ra",
+				"Random"
+			],
+			[
+				"wh",
+				"wh	while"
+			],
+			[
+				"ma",
+				"max_index"
+			],
+			[
+				"le",
+				"left_i"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"credi",
+				"creditworthiness"
+			],
+			[
+				"sour",
+				"source"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"alp",
+				"alphaCells"
+			],
+			[
+				"gr",
+				"gridLength"
+			],
+			[
+				"grid",
+				"gridSize"
+			],
+			[
+				"i",
+				"int"
+			],
+			[
+				"com",
+				"comCount"
+			],
+			[
+				"loc",
+				"locationCells"
+			],
+			[
+				"sta",
+				"startPlaying"
+			],
+			[
+				"D",
+				"DotComBuster"
+			],
+			[
+				"dotCo",
+				"dotComToTest"
+			],
+			[
+				"nu",
+				"numOfGuess"
+			],
+			[
+				"us",
+				"userGuess"
+			],
+			[
+				"dot",
+				"dotComToSet"
+			],
+			[
+				"he",
+				"helper"
+			],
+			[
+				"do",
+				"dotComList"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"int",
+				"Integer"
+			],
+			[
+				"num",
+				"numOfGuesses"
+			],
+			[
+				"lo",
+				"locationCells"
+			],
+			[
+				"Lo",
+				"locationCells"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"к",
+				"игрок"
+			],
+			[
+				"у",
+				"угадать"
+			],
+			[
+				"p3",
+				"p3isRight"
+			],
+			[
+				"p2",
+				"p2isRight"
+			],
+			[
+				"p1",
+				"p1isRight"
+			],
+			[
+				"be",
+				"beerNum"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"stre",
+				"stream-null?"
+			],
+			[
+				"st",
+				"stream"
+			],
+			[
+				"stream-f",
+				"stream-first-n"
+			],
+			[
+				"strea",
+				"stream"
+			],
+			[
+				"cons",
+				"cons-stream"
+			],
+			[
+				"stream-c",
+				"stream-cons"
+			],
+			[
+				"di",
+				"display-stream"
+			],
+			[
+				"force-",
+				"force-in"
+			],
+			[
+				"has",
+				"has-value-inner?"
+			],
+			[
+				"pro",
+				"probe"
+			],
+			[
+				"eq",
+				"eq?trace"
+			],
+			[
+				"mak",
+				"make-agenda"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"fu",
+				"full-adder-inner"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"zip",
+				"zip-inner"
+			],
+			[
+				"logi",
+				"logical-and"
+			],
+			[
+				"an",
+				"and-gate-delay"
+			],
+			[
+				"me",
+				"memo-fib"
+			],
+			[
+				"ta",
+				"local-table"
+			],
+			[
+				"em",
+				"empty-deque?"
+			],
+			[
+				"fr",
+				"front-deque"
+			],
+			[
+				"make",
+				"make-deque"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Jukebox1.java",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"line_ending": "Windows",
+				"name": "Jukebox1"
+			}
+		},
+		{
+			"file": "Reader.java",
+			"settings":
+			{
+				"buffer_size": 951,
+				"line_ending": "Windows",
+				"name": "import java.util.*;"
+			}
+		},
+		{
+			"file": "TestHashMap.java",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Npeople.java",
+			"settings":
+			{
+				"buffer_size": 995,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "StackException.java",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Scheme/Scheme.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"def",
+				"Snippet: define-procedure"
+			],
+			[
+				"sni",
+				"Snippet: Method"
+			],
+			[
+				"magic",
+				"Snippet: __magic__"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 166.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Machine Learning/week03/ex2-003/mlclass-ex2/costFunctionReg.m",
+		"/C/Users/Alexey Grigorev/Documents/java/OueueTest.java",
+		"/C/Users/Alexey Grigorev/AppData/Local/Temp/Rar$DIa0.430/SyntaxHighlighter.php",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Web Intelligence and Big Data/assignment 1/assignment1.py",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Introduction to Data Science/assignment1/twitterstream.py",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Introduction to Data Science/assignment1/print.py",
+		"/C/Users/Alexey Grigorev/Documents/java/textEnglish.txt",
+		"/C/Users/Alexey Grigorev/Documents/java/SongList.txt",
+		"/C/Users/Alexey Grigorev/Documents/java/Song.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TreeTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TestGenerics1.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Animal.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Dog.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Cat.java",
+		"/C/Users/Alexey Grigorev/Documents/java/CartezianTree.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Window.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Tester.java",
+		"/C/Users/Alexey Grigorev/Documents/java/WindowTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/BillBoard.java",
+		"/C/Users/Alexey Grigorev/Documents/java/CartezianTreeTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TreeNode.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TreeException.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Stack.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ModifiedQSort.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackNTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackN.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QueueLL.java",
+		"/C/Users/Alexey Grigorev/Documents/java/PriorityQueue.java",
+		"/C/Users/Alexey Grigorev/Documents/java/PriorityQueueTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/HeapSort.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Queue.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QueueLLTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QueueTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ExTestDrive.java",
+		"/C/Users/Alexey Grigorev/Documents/java/LinkedListTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/LinkedList.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackNodeText.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackNode.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TesterTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QueueException.java",
+		"/C/Users/Alexey Grigorev/Documents/java/StackException.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QuickSort.java",
+		"/C/Users/Alexey Grigorev/Documents/java/QuickSortTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/MergeSort.java",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week6/analysis/writing/analysis.tex",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week6/analysis/figures/figurecaption.tex",
+		"/C/Users/Alexey Grigorev/Documents/java/SuperArray.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SuperArrayTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/TestMergeSort.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SortEditionTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SortEdition.java",
+		"/C/Users/Alexey Grigorev/Documents/java/HeapSortTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SortEditionTest,java",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week3/analysis/my/figure/figurecaption.tex",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week3/analysis/my/writing/analysis.tex",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week3/week3_quizz_rlog.R",
+		"/C/Users/Alexey Grigorev/Documents/uni/DMKM/interview.txt",
+		"/C/Users/Alexey Grigorev/Desktop/DMKM interview questions",
+		"/C/Users/Alexey Grigorev/Documents/uni/London Metropolitan University/personal statement.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/DMKM/motivation.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/EIC ICT labs/motivation.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/IT4BI/motivation.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/motivation.tex",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week3/analysis/my/writing/figurecaption.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/westminster/personal statement.txt",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Data Analysis/week3/analysis/my/data/loansData.csv",
+		"/C/Users/Alexey Grigorev/Documents/uni/DMKM/skills.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/Sweden Visby/reference-Eyrikh.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/Sweden Visby/motivation.txt",
+		"/C/Users/Alexey Grigorev/Desktop/wwweb",
+		"/C/Users/Alexey Grigorev/Documents/uni/Sweden Visby/KTH-Letter-of-Intent.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/Sweden Visby/Motivation letter Visby 2013-2014.doc",
+		"/C/Users/Alexey Grigorev/Desktop/groovysript.groovy",
+		"/C/Users/Alexey Grigorev/AppData/Local/Temp/LocalSettings.php",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/thesis_summary.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/disciplines_eng.tex",
+		"/C/Users/Alexey Grigorev/Downloads/soft/dokuwiki-2012-01-25b/dokuwiki-2012-01-25b/install.php",
+		"/C/Users/Alexey Grigorev/Downloads/soft/unisoft/Uniform Server/udrive/usr/local/mysql/bin/my-small.cnf",
+		"/C/Users/Alexey Grigorev/Downloads/soft/unisoft/Uniform Server/udrive/usr/local/apache2/conf/httpd.conf",
+		"/C/Users/Alexey Grigorev/Desktop/diploma/02practicalpart.tex",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/thesis_summary_rus.txt",
+		"/C/Users/Alexey Grigorev/Desktop/diploma/titlepage_practice.tex",
+		"/C/Users/Alexey Grigorev/Desktop/diploma/titlepage_bachelor.tex",
+		"/C/Users/Alexey Grigorev/Desktop/diploma/conclusion.tex",
+		"/C/Users/Alexey Grigorev/Desktop/diploma/introduction.tex",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/conf/routes",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/disciplines_rus.txt",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/app/views/index.scala.html",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/app/models/Task.scala",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Computing for Data Analysis/summary.html",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/app/controllers/Application.scala",
+		"/C/Users/Alexey Grigorev/Documents/uni/Endhoven/disciplines.txt",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/conf/application.conf",
+		"/C/Users/Alexey Grigorev/Documents/uni/motivation.tex",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/conf/evolutions/default/1.sql",
+		"/C/Users/Alexey Grigorev/Documents/courses/coursera/Computing for Data Analysis/summary.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/EIC ICT labs/uni-recap.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/Sweden Visby/KTH Letter of Intention.tex",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/app/views/main.scala.html",
+		"/C/Users/Alexey Grigorev/Documents/workspace-sts-2.9.2.RELEASE/todolist/public/stylesheets/main.css",
+		"/C/Users/Alexey Grigorev/Documents/java/GameHelper.java",
+		"/C/cygwin/home/Alexey Grigorev/.bashrc",
+		"/C/Users/Alexey Grigorev/Documents/java/DotCom.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ArrayListMagnet.java",
+		"/C/Users/Alexey Grigorev/Documents/uni/LCT/courses.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/motivation.txt",
+		"/C/Users/Alexey Grigorev/Documents/uni/motivation2.txt",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/Scheme/Scheme.sublime-settings",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/Scheme/Scheme.sublime-build",
+		"/C/Users/Alexey Grigorev/Documents/1.scheme",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/User/Scheme.sublime-settings",
+		"/C/Users/Alexey Grigorev/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Alexey Grigorev/Documents/java/SimpleDotComTestDrive.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SimpleDotCom.java",
+		"/C/Users/Alexey Grigorev/Documents/java/SimpleDotComGame.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Output.java",
+		"/C/Users/Alexey Grigorev/Documents/java/MultiFor.java",
+		"/C/Users/Alexey Grigorev/Documents/java/DotComBuster.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Puzzle4b.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Puzzle4.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Mix4.java",
+		"/C/Users/Alexey Grigorev/Documents/java/Clock.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ClockTestDrive.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ElectricGuitarTest.java",
+		"/C/Users/Alexey Grigorev/Documents/java/ElectricGuitar.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Alexey Grigorev\\Documents\\sublime\\sicp\\",
+			"C:\\Users\\Alexey Grigorev\\Documents\\sublime\\sicp\\chapter2\\2.2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"he, he, art",
+			"))),",
+			"lineS",
+			" ",
+			"</td></tr><tr><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"Week",
+			"course-item-list-section-list",
+			"is",
+			"</td></tr><tr><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td></tr><tr><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td></tr><tr><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"</td><td bgcolor=\"#eaeaea\" valign=\"top\">",
+			"\\t",
+			"\\s+",
+			"wast",
+			"shortage",
+			"mysqld",
+			"\"",
+			"data\nspecial type of list",
+			"data",
+			"h4",
+			"write",
+			"Read",
+			"naming",
+			"factor",
+			"Матрицы",
+			"Векторы",
+			"h5",
+			"Числа",
+			"h3",
+			"Примитивы",
+			"h3",
+			"Syntax",
+			" \\(\\d{2,3}%\\)",
+			"\")\n",
+			"\\t\\(\\t(\\d{2,3}%)\\t\\)",
+			"\\t",
+			"\\t\n",
+			"\n",
+			"   %",
+			"\n   ",
+			" ",
+			"\\t ",
+			"( .*\\*)",
+			" .*\\*",
+			"( .*\\*)",
+			"/s+",
+			"”",
+			"“",
+			"I",
+			"\n ",
+			"index",
+			"();",
+			"(\"\")",
+			"stream-cons",
+			"cons-stream",
+			"sequence",
+			"accumulate",
+			"proc",
+			"eq?trace",
+			"a",
+			"me-adder",
+			"me",
+			"probe",
+			"result",
+			"number2",
+			"number1",
+			"c-in",
+			"b",
+			"not-a2",
+			"not-a1",
+			"a2",
+			"a1",
+			"output",
+			"input",
+			"in3",
+			"sum",
+			"c-in",
+			"b",
+			"a",
+			"e",
+			"d",
+			"c",
+			"s",
+			"c",
+			"b",
+			"a",
+			"value",
+			"table",
+			"x",
+			"=",
+			"adjoint-table",
+			"set",
+			"table",
+			"dispatch",
+			"d1",
+			"empty?",
+			"linked",
+			"node",
+			"NODE",
+			"node",
+			"delete-deque!",
+			"set-mcdr!",
+			"insert-deque!",
+			"q1",
+			"queue",
+			"print-queue",
+			"delete-queue!",
+			"insert-queue!",
+			"queue",
+			"empty-deque?",
+			"front-queue",
+			"empty-queue?",
+			"set-front-ptr!",
+			"proxy",
+			"new-password",
+			"acc",
+			"1024",
+			"test",
+			"poly2",
+			"poly1",
+			"mapreducer",
+			"mapper",
+			"\"",
+			"result"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"))),\\n",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\t",
+			" ",
+			"",
+			" ($1)",
+			" ",
+			"\\t",
+			"	$1	",
+			"$1",
+			"(1)",
+			"&gt;",
+			"&lt;",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Jukebox1.java",
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Jukebox1",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Reader.java",
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								951
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import java.util.*;",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TestHashMap.java",
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Npeople.java",
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "StackException.java",
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}
